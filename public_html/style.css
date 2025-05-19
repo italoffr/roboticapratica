@@ -2,3 +2,7 @@ h1{
     color: aqua;
     justify-self: center;
 }
+.titulo{
+    background-color: black;
+    height: 50px;
+}
