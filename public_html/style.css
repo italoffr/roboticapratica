@@ -1,8 +1,18 @@
 h1{
     color: aqua;
     justify-self: center;
+    font-size: 40px;
+    margin: 0px;
 }
 .titulo{
     background-color: black;
     height: 50px;
+}
+.texto{
+    background-color: aquamarine;
+    height: 200px;
+}
+p{
+    justify-self: center;
+    margin: 0px;
 }
