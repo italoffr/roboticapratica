@@ -1,5 +1,5 @@
 .titulo{
-    background-color: black;
+    background-color: rgb(43, 40, 40);
     height: 70px;
     display: flex;
 }
@@ -13,23 +13,26 @@ h1{
 }
 
 .navegar{
-    background-color: yellowgreen;
+    background-color: rgb(43, 40, 40);
     width: 20%;
+}
+a{
+    color: azure;
 }
 
 .texto-1{
     background-color: aquamarine;
     height: 500px;
 }
-.texto-2{
+/*.texto-2{
     background-color: wheat;
-}
+}*/
 p{
     justify-self: center;
     margin: 0px;
 }
 .fundo{
-    background-color: black;
+    background-color: rgb(43, 40, 40);
     height: 60px;
 }
 .texto-fundo{
