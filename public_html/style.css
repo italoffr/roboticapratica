@@ -1,3 +1,8 @@
+/*html, body {
+    overflow-x: hidden;
+    max-width: 100%;
+} tira a rolagem lateral*/
+
 .titulo{
     background-color: rgb(43, 40, 40);
     height: 70px;
@@ -12,7 +17,7 @@ h1{
     width: 80%;
 }
 
-.navegar{
+.menu{
     background-color: rgb(43, 40, 40);
     width: 20%;
 }
