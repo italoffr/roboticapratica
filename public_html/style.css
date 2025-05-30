@@ -43,8 +43,10 @@ p{
 }
 .fundo{
     background-color: rgb(43, 40, 40);
-    height: 60px;
+    height: 70px;
+    
 }
 .texto-fundo{
     color: aqua;
+    padding-top: 5px;
 }
