@@ -3,6 +3,9 @@
     max-width: 100%;
 } tira a rolagem lateral*/
 
+body{
+    margin: 0px;
+}
 .titulo{
     background-color: rgb(43, 40, 40);
     height: 70px;
@@ -15,11 +18,13 @@ h1{
     font-size: 2em;
     margin: 0px;
     width: 80%;
+    padding: 10px;
 }
 
 .menu{
     background-color: rgb(43, 40, 40);
     width: 20%;
+    padding-top: 5px;
 }
 a{
     color: azure;
