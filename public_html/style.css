@@ -30,7 +30,7 @@ a{
     color: azure;
 }
 
-.texto-1{
+.espaço-texto{
     background-color: aquamarine;
     height: 500px;
 }
@@ -49,4 +49,9 @@ p{
 .texto-fundo{
     color: aqua;
     padding-top: 5px;
+}
+
+.texto{
+    padding: 20px 30px 0 30px;
+    
 }
