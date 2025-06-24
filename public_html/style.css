@@ -5,6 +5,7 @@
 
 body{
     margin: 0px;
+    background-color: aquamarine;
 }
 .titulo{
     background-color: rgb(43, 40, 40);
@@ -25,18 +26,12 @@ h1{
     background-color: rgb(43, 40, 40);
     width: 20%;
     padding-top: 5px;
+    text-align: center;
 }
 a{
     color: azure;
 }
 
-.espaço-texto{
-    background-color: aquamarine;
-    height: 500px;
-}
-/*.texto-2{
-    background-color: wheat;
-}*/
 p{
     justify-self: center;
     margin: 0px;
@@ -51,7 +46,10 @@ p{
     padding-top: 5px;
 }
 
-.texto{
-    padding: 20px 30px 0 30px;
+.texto-in1{
     
+    padding-top: 5px;
+    height: 495px;
+    width: 90%;
+    margin: auto;
 }
